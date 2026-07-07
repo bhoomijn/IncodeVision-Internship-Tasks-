@@ -47,6 +47,9 @@ Each task demonstrates practical applications of Python, Machine Learning, and N
 
 ---
 
+
+---
+
 ## 📈 Internship Outcome
 This repository showcases the tasks completed during my **IncodeVision AI Internship**.  
 It highlights practical skills in Python, Machine Learning, NLP, and Recommendation Systems.  
